@@ -1,3 +1,17 @@
 spring:
   application:
     name: code_generate
+server:
+  port: 8123
+  servlet:
+    context-path: /api
+#springdoc-openapi
+springdoc:
+  group-configs:
+    group: 'default'
+    packages-to-scan: com.lx.codeGenerate.controller
+
+knife4j:
+  enable: true
+  setting:
+    language: zh_cn
