@@ -1,4 +1,4 @@
-package com.lx.codeGenerate;
+package com.lx;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

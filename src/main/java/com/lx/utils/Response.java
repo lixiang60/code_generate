@@ -1,6 +1,6 @@
-package com.lx.codeGenerate.utils;
+package com.lx.utils;
 
-import com.lx.codeGenerate.exception.ErrorCode;
+import com.lx.exception.ErrorCode;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 

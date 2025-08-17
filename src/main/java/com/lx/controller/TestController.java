@@ -1,4 +1,4 @@
-package com.lx.codeGenerate.controller;
+package com.lx.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

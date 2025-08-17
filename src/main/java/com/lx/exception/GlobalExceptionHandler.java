@@ -1,7 +1,7 @@
-package com.lx.codeGenerate.exception;
+package com.lx.exception;
 
-import com.lx.codeGenerate.utils.Response;
-import com.lx.codeGenerate.utils.ResultUtil;
+import com.lx.utils.Response;
+import com.lx.utils.ResultUtil;
 import io.swagger.v3.oas.annotations.Hidden;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.ExceptionHandler;

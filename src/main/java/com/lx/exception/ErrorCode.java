@@ -1,4 +1,4 @@
-package com.lx.codeGenerate.exception;
+package com.lx.exception;
 
 import lombok.Getter;
 

@@ -1,7 +1,7 @@
-package com.lx.codeGenerate.utils;
+package com.lx.utils;
 
-import com.lx.codeGenerate.exception.BusinessException;
-import com.lx.codeGenerate.exception.ErrorCode;
+import com.lx.exception.BusinessException;
+import com.lx.exception.ErrorCode;
 
 public class ThrowUtils {
 
